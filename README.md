@@ -3,9 +3,6 @@
 * What is padding, margin, and border and how does each change the layout of content?
 * How does padding, margin, and border impact the width and height of a content box?
 * What is the `box-sizing` property and how does the `border-box` value change the way width and height are calculated?
-* What is the best way to ensure that all of your element use `border-box` sizing by default?
-* How does a negative margin effect a content box?
-* What is _margin collapse_?
 
 ### Display and Layout Basics
 * What is the _normal flow_ of HTML content?
