@@ -14,3 +14,9 @@
 
 ### Floats
 * What does it mean to _float_ a block?
+
+### How To Publish a website using Github Pages
+* Settings
+* GitHub Pages
+* Choose `master` or `main` as the source and it will automatically pick up the `index.html` page!
+* Creates a URL for you!
